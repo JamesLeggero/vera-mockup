@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
 import './App.css';
 // import Navigation from './components/Navigation'
 import Landing from './components/Landing'
-import MainPage from './components/ElectionEve/MainPage'
+import ElectionEve from './components/ElectionEve/ElectionEve'
 
 function App() {
   return (
@@ -14,7 +14,7 @@ function App() {
       </header> */}
       <Switch>
         <Route exact path='/vera-mockup' component={Landing} />
-        <Route exact path='/vera-mockup/electioneve' component={MainPage} />
+        <Route exact path='/vera-mockup/electioneve' component={ElectionEve} />
       </Switch>
       </Router>
       
