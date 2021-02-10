@@ -6,7 +6,9 @@ const MainText = () => {
     
     return (
         <>
-        <img src={VoteLine} alt='election eve voting line' />
+        <div className='img-container'>
+        <img id='voteline' src={VoteLine} alt='election eve voting line' />
+        </div>
         <h1>Headline about things</h1>
         <p>Here's some test text</p>
         </>

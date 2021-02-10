@@ -6,3 +6,17 @@ h1 {
 p {
     font-family: GT-Sectra-Book, Georgia
 }
+
+.img-container {
+    width: 100%;
+    max-height: 400px; overflow: hidden;
+    margin-bottom: 50px;
+}
+
+#voteline {
+    width: 100%;
+    /* max-height: 300px;
+    overflow: hidden; */
+    filter: grayscale(1)
+    
+}
