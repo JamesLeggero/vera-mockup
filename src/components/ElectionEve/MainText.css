@@ -1,3 +1,5 @@
+
+
 h1 {
     font-family: GT-Sectra-Medium, Georgia;
     
@@ -8,9 +10,10 @@ p {
 }
 
 .img-container {
+    margin-top: -60px;
     width: 100%;
-    max-height: 400px; overflow: hidden;
     margin-bottom: 50px;
+    z-index: 1
 }
 
 #voteline {

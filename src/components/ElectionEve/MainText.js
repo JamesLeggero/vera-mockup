@@ -1,6 +1,6 @@
 import React from 'react'
 import './MainText.css'
-import VoteLine from '../../img/GettyImages-1273349524.jpg'
+import VoteLine from '../../img/GettyVoteLineEDIT.png'
 
 const MainText = () => {
     
