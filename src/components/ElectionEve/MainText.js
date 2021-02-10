@@ -1,10 +1,14 @@
 import React from 'react'
+import './MainText.css'
+import VoteLine from '../../img/GettyImages-1273349524.jpg'
 
 const MainText = () => {
     
     return (
         <>
-        <h2>Here's some test text</h2>
+        <img src={VoteLine} alt='election eve voting line' />
+        <h1>Headline about things</h1>
+        <p>Here's some test text</p>
         </>
     )
 }

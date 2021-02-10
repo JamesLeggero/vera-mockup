@@ -47,7 +47,7 @@ export default function MainForm() {
   }
 
   return (
-    <Container className='w-75'>
+    <Container className='w-50'>
       <Form onSubmit={handleSubmit}> 
       <Form.Group controlId="formBasicName">
           <Form.Label>First Name</Form.Label>

@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: 'GT-Sectra-Book';
+  src: local('GT-Sectra-Book'), url('./fonts/GT-Sectra-Book.ttf'), format(truetype)
+}
+
+@font-face {
+  font-family: 'GT-Sectra-Medium';
+  src: local('GT-Sectra-Medium'), url('./fonts/GT-Sectra-Medium.ttf'), format(truetype)
+}

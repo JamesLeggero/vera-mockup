@@ -1,12 +1,13 @@
 import React from 'react'
 import Navbar from 'react-bootstrap/Navbar'
+import './Navigation.css'
 import VeraImage from '../logos/Vera_Hor_White_800px.png'
 
 export default function Navigation() {
 
     return (
         <>
-        <Navbar bg="dark" variant="dark">
+        <Navbar >
     <Navbar.Brand href="/vera-mockup">
       <img
         alt=""
