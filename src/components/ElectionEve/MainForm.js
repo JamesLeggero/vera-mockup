@@ -62,7 +62,7 @@ export default function MainForm() {
   return (
     <>
       <h4> To learn more about the Vera Institute and its initiatives, please sign up for our mailing list</h4>
-    <Container className='w-50'>
+    <Container className='w-50 formContainer'>
       
       <Form onSubmit={handleSubmit}> 
       <Form.Group controlId="formBasicName">

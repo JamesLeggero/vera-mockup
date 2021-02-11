@@ -1,12 +1,12 @@
 
 
 h1 {
-    font-family: GT-Sectra-Medium, Wingdings;
+    font-family: GT-Sectra-Medium, Georgia;
     
 }
 
 p {
-    font-family: GT-Sectra-Book, Wingdings
+    font-family: GT-Sectra-Book, Verdana
 }
 
 .img-container {
@@ -14,6 +14,10 @@ p {
     width: 100%;
     margin-bottom: 50px;
     z-index: 1
+}
+
+.mainText {
+    margin-bottom: 60px;
 }
 
 #voteline {
