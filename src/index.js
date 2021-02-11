@@ -1,14 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-// import { BrowserRouter as Router } from 'react-router-dom'
-import './index.css';
-// import './fonts/GT-Sectra-Book.ttf'
-// import './fonts/GT-Sectra-Medium.ttf'
-// import './fonts/GT-Walsheim-Regular.ttf'
-// import './fonts/GT-Walsheim-Thin.ttf'
+
+
+
 import App from './App';
-import reportWebVitals from './reportWebVitals';
+import './index.css';
 import 'bootstrap/dist/css/bootstrap.min.css'
+import reportWebVitals from './reportWebVitals';
+
+
 
 
 ReactDOM.render(
