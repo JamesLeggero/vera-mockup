@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/vera-mockup/static/css/main.47fe88d9.chunk.css",
-    "main.js": "/vera-mockup/static/js/main.7e7ff308.chunk.js",
-    "main.js.map": "/vera-mockup/static/js/main.7e7ff308.chunk.js.map",
-    "runtime-main.js": "/vera-mockup/static/js/runtime-main.e6f50182.js",
-    "runtime-main.js.map": "/vera-mockup/static/js/runtime-main.e6f50182.js.map",
+    "main.js": "/vera-mockup/static/js/main.7b0df056.chunk.js",
+    "main.js.map": "/vera-mockup/static/js/main.7b0df056.chunk.js.map",
+    "runtime-main.js": "/vera-mockup/static/js/runtime-main.6db4bc7d.js",
+    "runtime-main.js.map": "/vera-mockup/static/js/runtime-main.6db4bc7d.js.map",
     "static/css/2.150d169a.chunk.css": "/vera-mockup/static/css/2.150d169a.chunk.css",
-    "static/js/2.167bfd34.chunk.js": "/vera-mockup/static/js/2.167bfd34.chunk.js",
-    "static/js/2.167bfd34.chunk.js.map": "/vera-mockup/static/js/2.167bfd34.chunk.js.map",
-    "static/js/3.f0eccc90.chunk.js": "/vera-mockup/static/js/3.f0eccc90.chunk.js",
-    "static/js/3.f0eccc90.chunk.js.map": "/vera-mockup/static/js/3.f0eccc90.chunk.js.map",
+    "static/js/2.5bec08ff.chunk.js": "/vera-mockup/static/js/2.5bec08ff.chunk.js",
+    "static/js/2.5bec08ff.chunk.js.map": "/vera-mockup/static/js/2.5bec08ff.chunk.js.map",
+    "static/js/3.3838e1e7.chunk.js": "/vera-mockup/static/js/3.3838e1e7.chunk.js",
+    "static/js/3.3838e1e7.chunk.js.map": "/vera-mockup/static/js/3.3838e1e7.chunk.js.map",
     "index.html": "/vera-mockup/index.html",
     "static/css/2.150d169a.chunk.css.map": "/vera-mockup/static/css/2.150d169a.chunk.css.map",
     "static/css/main.47fe88d9.chunk.css.map": "/vera-mockup/static/css/main.47fe88d9.chunk.css.map",
-    "static/js/2.167bfd34.chunk.js.LICENSE.txt": "/vera-mockup/static/js/2.167bfd34.chunk.js.LICENSE.txt",
+    "static/js/2.5bec08ff.chunk.js.LICENSE.txt": "/vera-mockup/static/js/2.5bec08ff.chunk.js.LICENSE.txt",
     "static/media/index.css": "/vera-mockup/static/media/GT-Walsheim-Thin.170ac225.ttf",
     "static/media/GettyVoteLineEDIT.6244d233.png": "/vera-mockup/static/media/GettyVoteLineEDIT.6244d233.png",
     "static/media/Vera_Hor_White_800px.aa72095b.png": "/vera-mockup/static/media/Vera_Hor_White_800px.aa72095b.png",
@@ -23,10 +23,10 @@
     "static/media/twitter-logo.013f558a.png": "/vera-mockup/static/media/twitter-logo.013f558a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e6f50182.js",
+    "static/js/runtime-main.6db4bc7d.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.167bfd34.chunk.js",
+    "static/js/2.5bec08ff.chunk.js",
     "static/css/main.47fe88d9.chunk.css",
-    "static/js/main.7e7ff308.chunk.js"
+    "static/js/main.7b0df056.chunk.js"
   ]
 }
