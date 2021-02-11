@@ -1,6 +1,6 @@
 import React from "react";
 import "./Footer.css";
-import Container from "react-bootstrap/Container";
+// import Container from "react-bootstrap/Container";
 import FootLogo from "../../logos/Vera_Ver_White.png";
 import FBLogo from "../../logos/facebook-logo.png";
 import TwLogo from "../../logos/twitter-logo.png";

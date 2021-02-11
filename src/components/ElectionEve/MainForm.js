@@ -20,6 +20,7 @@ export default function MainForm() {
 
   const handleSubmit = async event => {
     event.preventDefault()
+    const confirmation = document.getElementById('confirmation')
     
     try {
       if (user.firstName.length > 1 && user.email.length > 1) {
@@ -30,9 +31,21 @@ export default function MainForm() {
         })
         
         await console.log(`${user.firstName}, ${user.email}, ${user.zip}`)
-        event.target.reset()
+        confirmation.innerHTML='You have successfully signed up for our mailing list - thank you!'
+        confirmation.style.visibility = 'visible'
+        setTimeout(function() {
+          confirmation.style.visibility = 'hidden'
+        }, 3000)
+        // await setTimeout(function(){ alert("Hello"); }, 3000);
+        await event.target.reset()
       } else {
-        console.log('user field or email is too short')
+        confirmation.innerHTML='First name or email field is too short'
+        confirmation.style.visibility = 'visible'
+        setTimeout(function() {
+          confirmation.style.visibility = 'hidden'
+        }, 3000)
+        // await event.target.reset()
+        // console.log('user field or email is too short')
       }
       
       
@@ -71,7 +84,7 @@ export default function MainForm() {
         </Button> */}
         <div className='submit-and-confirmation'>
         <input type='submit' className='formButton' value ='Submit' />
-        <h6 className='confirmation'>You have successfully signed up for our mailing list - thank you!</h6>
+        <h6 id='confirmation' className='confirmation' style={{visibility: 'hidden'}}>You have successfully signed up for our mailing list - thank you!</h6>
         </div>
       </Form>
     </Container>
