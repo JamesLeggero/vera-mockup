@@ -2,7 +2,7 @@ import React from 'react'
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
 import './App.css';
 // import Navigation from './components/Navigation'
-import Landing from './components/Landing'
+// import Landing from './components/Landing'
 import ElectionEve from './components/ElectionEve/ElectionEve'
 
 function App() {
@@ -13,8 +13,8 @@ function App() {
         <Navigation />
       </header> */}
       <Switch>
-        <Route exact path='/vera-mockup' component={Landing} />
-        <Route exact path='/vera-mockup/electioneve' component={ElectionEve} />
+        {/* <Route exact path='/vera-mockup' component={Landing} /> */}
+        <Route exact path='/vera-mockup/' component={ElectionEve} />
       </Switch>
       </Router>
       
