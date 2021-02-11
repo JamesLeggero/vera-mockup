@@ -2,7 +2,8 @@ import React from 'react'
 import './ElectionEve.css'
 import ElectionNavigation from './ElectionNavigation'
 import MainText from './MainText'
-import MainFrom from './MainForm'
+import MainForm from './MainForm'
+import Footer from './Footer'
 
 export default function ElectionEve() {
 
@@ -10,7 +11,8 @@ export default function ElectionEve() {
         <>
         <ElectionNavigation />
         <MainText/>
-        <MainFrom />
+        <MainForm />
+        <Footer />
         </>
 
     )
