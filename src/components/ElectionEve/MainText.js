@@ -9,7 +9,7 @@ const MainText = () => {
         <div className='img-container'>
         <img id='voteline' src={VoteLine} alt='election eve voting line' />
         </div>
-        <h1>Headline about things</h1>
+        <h1>Exposing the massive jail</h1>
         <p>Here's some test text</p>
         </>
     )

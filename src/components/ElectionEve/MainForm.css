@@ -1,3 +1,7 @@
+h4 {
+    font-family: GT-Walsheim-Thin-Oblique
+}
+
 .container {
     width: 200px;
     /* max-width: 600px; */
@@ -5,4 +9,26 @@
     border-radius: 12px;
     padding: 20px 5px;
     margin: 30px
+}
+
+.formLabel, .formButton {
+    font-family: GT-Sectra-Medium;
+}
+
+.formInput {
+    font-family: GT-Walsheim-Thin;
+}
+
+.formButton {
+    color: white;
+    background-color: #ef4136;
+    border: transparent;
+    border-radius: 5%;
+    margin-top: 10px;
+    /* margin-bottom: 5px; */
+}
+
+.confirmation {
+    /* float: right; */
+    font-family: GT-Walsheim-Thin-Oblique;
 }

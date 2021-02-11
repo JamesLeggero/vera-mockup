@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Form from "react-bootstrap/Form";
-import Button from "react-bootstrap/Button";
+// import Button from "react-bootstrap/Button";
 import Container from "react-bootstrap/Container";
 import "./MainForm.css";
 
@@ -47,26 +47,34 @@ export default function MainForm() {
   }
 
   return (
+    <>
+      <h4> To learn more about the Vera Institute and its initiatives, please sign up for our mailing list</h4>
     <Container className='w-50'>
+      
       <Form onSubmit={handleSubmit}> 
       <Form.Group controlId="formBasicName">
-          <Form.Label>First Name</Form.Label>
-          <Form.Control type="text" name='firstName' placeholder="Enter first name" onChange={handleUserInput}/>
+          <Form.Label className='formLabel'>First Name</Form.Label>
+          <Form.Control className='formInput' type="text" name='firstName' placeholder="Enter first name" onChange={handleUserInput}/>
         </Form.Group>
         <Form.Group controlId="formBasicEmail">
-          <Form.Label>Email Address</Form.Label>
-          <Form.Control type="email" name='email' placeholder="Enter email" onChange={handleUserInput}/>
+          <Form.Label className='formLabel'>Email Address</Form.Label>
+          <Form.Control className='formInput' type="email" name='email' placeholder="Enter email" onChange={handleUserInput}/>
         </Form.Group>
         <Form.Group controlId="formBasicZip">
-          <Form.Label>Zip Code</Form.Label>
-          <Form.Control type="text" name='zip' placeholder="Enter zip code" onChange={handleUserInput}/>
+          <Form.Label className='formLabel'>Zip Code</Form.Label>
+          <Form.Control className='formInput' type="text" name='zip' placeholder="Enter zip code" onChange={handleUserInput}/>
         </Form.Group>
 
         
-        <Button variant="danger" type="submit">
+        {/* <Button className='formButton'  type="submit">
           Submit
-        </Button>
+        </Button> */}
+        <div className='submit-and-confirmation'>
+        <input type='submit' className='formButton' value ='Submit' />
+        <h6 className='confirmation'>You have successfully signed up for our mailing list - thank you!</h6>
+        </div>
       </Form>
     </Container>
+    </>
   );
 }
