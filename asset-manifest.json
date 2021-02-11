@@ -1,21 +1,20 @@
 {
   "files": {
-    "main.css": "/vera-mockup/static/css/main.54b80da3.chunk.css",
-    "main.js": "/vera-mockup/static/js/main.cfb7e9fa.chunk.js",
-    "main.js.map": "/vera-mockup/static/js/main.cfb7e9fa.chunk.js.map",
+    "main.css": "/vera-mockup/static/css/main.ea92cd1f.chunk.css",
+    "main.js": "/vera-mockup/static/js/main.42fc8e0e.chunk.js",
+    "main.js.map": "/vera-mockup/static/js/main.42fc8e0e.chunk.js.map",
     "runtime-main.js": "/vera-mockup/static/js/runtime-main.e6f50182.js",
     "runtime-main.js.map": "/vera-mockup/static/js/runtime-main.e6f50182.js.map",
     "static/css/2.150d169a.chunk.css": "/vera-mockup/static/css/2.150d169a.chunk.css",
-    "static/js/2.8ae75cfb.chunk.js": "/vera-mockup/static/js/2.8ae75cfb.chunk.js",
-    "static/js/2.8ae75cfb.chunk.js.map": "/vera-mockup/static/js/2.8ae75cfb.chunk.js.map",
+    "static/js/2.0412ed17.chunk.js": "/vera-mockup/static/js/2.0412ed17.chunk.js",
+    "static/js/2.0412ed17.chunk.js.map": "/vera-mockup/static/js/2.0412ed17.chunk.js.map",
     "static/js/3.f0eccc90.chunk.js": "/vera-mockup/static/js/3.f0eccc90.chunk.js",
     "static/js/3.f0eccc90.chunk.js.map": "/vera-mockup/static/js/3.f0eccc90.chunk.js.map",
     "index.html": "/vera-mockup/index.html",
     "static/css/2.150d169a.chunk.css.map": "/vera-mockup/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.54b80da3.chunk.css.map": "/vera-mockup/static/css/main.54b80da3.chunk.css.map",
-    "static/js/2.8ae75cfb.chunk.js.LICENSE.txt": "/vera-mockup/static/js/2.8ae75cfb.chunk.js.LICENSE.txt",
+    "static/css/main.ea92cd1f.chunk.css.map": "/vera-mockup/static/css/main.ea92cd1f.chunk.css.map",
+    "static/js/2.0412ed17.chunk.js.LICENSE.txt": "/vera-mockup/static/js/2.0412ed17.chunk.js.LICENSE.txt",
     "static/media/index.css": "/vera-mockup/static/media/GT-Walsheim-Thin.170ac225.ttf",
-    "static/media/App.css": "/vera-mockup/static/media/GT-Sectra-Medium.d2387cf8.ttf",
     "static/media/GettyVoteLineEDIT.6244d233.png": "/vera-mockup/static/media/GettyVoteLineEDIT.6244d233.png",
     "static/media/Vera_Hor_White_800px.aa72095b.png": "/vera-mockup/static/media/Vera_Hor_White_800px.aa72095b.png",
     "static/media/Vera_Ver_White.76a4c9e9.png": "/vera-mockup/static/media/Vera_Ver_White.76a4c9e9.png",
@@ -26,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.e6f50182.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.8ae75cfb.chunk.js",
-    "static/css/main.54b80da3.chunk.css",
-    "static/js/main.cfb7e9fa.chunk.js"
+    "static/js/2.0412ed17.chunk.js",
+    "static/css/main.ea92cd1f.chunk.css",
+    "static/js/main.42fc8e0e.chunk.js"
   ]
 }
