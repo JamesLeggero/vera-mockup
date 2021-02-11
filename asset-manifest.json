@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/vera-mockup/electioneve/static/css/main.1a53d6fc.chunk.css",
+    "main.js": "/vera-mockup/electioneve/static/js/main.9fc4b2f4.chunk.js",
+    "main.js.map": "/vera-mockup/electioneve/static/js/main.9fc4b2f4.chunk.js.map",
+    "runtime-main.js": "/vera-mockup/electioneve/static/js/runtime-main.17eb1d13.js",
+    "runtime-main.js.map": "/vera-mockup/electioneve/static/js/runtime-main.17eb1d13.js.map",
+    "static/css/2.150d169a.chunk.css": "/vera-mockup/electioneve/static/css/2.150d169a.chunk.css",
+    "static/js/2.01417ca5.chunk.js": "/vera-mockup/electioneve/static/js/2.01417ca5.chunk.js",
+    "static/js/2.01417ca5.chunk.js.map": "/vera-mockup/electioneve/static/js/2.01417ca5.chunk.js.map",
+    "static/js/3.f0eccc90.chunk.js": "/vera-mockup/electioneve/static/js/3.f0eccc90.chunk.js",
+    "static/js/3.f0eccc90.chunk.js.map": "/vera-mockup/electioneve/static/js/3.f0eccc90.chunk.js.map",
+    "index.html": "/vera-mockup/electioneve/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/vera-mockup/electioneve/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.1a53d6fc.chunk.css.map": "/vera-mockup/electioneve/static/css/main.1a53d6fc.chunk.css.map",
+    "static/js/2.01417ca5.chunk.js.LICENSE.txt": "/vera-mockup/electioneve/static/js/2.01417ca5.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/vera-mockup/electioneve/static/media/GT-Walsheim-Thin.170ac225.ttf",
+    "static/media/App.css": "/vera-mockup/electioneve/static/media/GT-Sectra-Medium.d2387cf8.ttf",
+    "static/media/GettyVoteLineEDIT.6244d233.png": "/vera-mockup/electioneve/static/media/GettyVoteLineEDIT.6244d233.png",
+    "static/media/Vera_Hor_White_800px.aa72095b.png": "/vera-mockup/electioneve/static/media/Vera_Hor_White_800px.aa72095b.png",
+    "static/media/Vera_Ver_White.76a4c9e9.png": "/vera-mockup/electioneve/static/media/Vera_Ver_White.76a4c9e9.png",
+    "static/media/facebook-logo.c52531c9.png": "/vera-mockup/electioneve/static/media/facebook-logo.c52531c9.png",
+    "static/media/instagram-logo.87c63f0f.png": "/vera-mockup/electioneve/static/media/instagram-logo.87c63f0f.png",
+    "static/media/twitter-logo.013f558a.png": "/vera-mockup/electioneve/static/media/twitter-logo.013f558a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17eb1d13.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.01417ca5.chunk.js",
+    "static/css/main.1a53d6fc.chunk.css",
+    "static/js/main.9fc4b2f4.chunk.js"
+  ]
+}
