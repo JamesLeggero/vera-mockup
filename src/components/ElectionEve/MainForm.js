@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Container from "react-bootstrap/Container";
+// import Container from "react-bootstrap/Container";
 import Form from "react-bootstrap/Form";
 import "./MainForm.css";
 
@@ -61,7 +61,8 @@ export default function MainForm() {
   return (
     <>
       <h4> To learn more about the Vera Institute and its initiatives, please sign up for our mailing list</h4>
-    <Container className='w-50 formContainer'>
+    {/* <Container className='w-50 formContainer'> */}
+    <div className='formContainer'>
       
       <Form onSubmit={handleSubmit}> 
       <Form.Group controlId="formBasicName">
@@ -86,7 +87,8 @@ export default function MainForm() {
         <h6 id='confirmation' className='confirmation' style={{visibility: 'hidden'}}>You have successfully signed up for our mailing list - thank you!</h6>
         </div>
       </Form>
-    </Container>
+      </div>
+    {/* </Container> */}
     </>
   );
 }
